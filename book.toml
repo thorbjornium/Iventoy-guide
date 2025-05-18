@@ -21,14 +21,14 @@ scroll-to-top.enable = true
 [preprocessor.alerts]
 
 [output.html]
-# site-url = "https://grejor.netlify.app/"
+site-url = "https://grejor.iventoyguide.app/"
 additional-css = ["theme/sun.css", "theme/nordic.css"]
 
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 default-theme = "sun"
 preferred-dark-theme = "nordic"
-# git-repository-url = "https://github.com/thorbjornium/Software_Manual_release"
-# edit-url-template = "https://github.com/thorbjornium/Software-Manual/blob/main/{path}"
+git-repository-url = "https://github.com/thorbjornium/iventoy-guide"
+edit-url-template = "https://github.com/thorbjornium/iventoy-guide/blob/main/{path}"
 
 
 [output.html.print]
