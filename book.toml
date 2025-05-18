@@ -25,7 +25,7 @@ site-url = "https://grejor.iventoyguide.app/"
 additional-css = ["theme/sun.css", "theme/nordic.css"]
 
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
-default-theme = "sun"
+default-theme = "nordic"
 preferred-dark-theme = "nordic"
 git-repository-url = "https://github.com/thorbjornium/iventoy-guide"
 edit-url-template = "https://github.com/thorbjornium/iventoy-guide/blob/main/{path}"
