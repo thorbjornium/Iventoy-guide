@@ -22,7 +22,7 @@ scroll-to-top.enable = true
 
 [output.html]
 site-url = "https://grejor.iventoyguide.app/"
-additional-css = ["theme/sun.css", "theme/nordic.css"]
+additional-css = ["theme/nordic.css"]
 
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 default-theme = "nordic"
