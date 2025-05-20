@@ -1,2 +1,2 @@
-Some stuff for a course.  
-[https://iventoyguide.netlify.app/](https://iventoyguide.netlify.app/)
+Some stuff for a course. Site found at https://iventoy-guide.netlify.app/
+
