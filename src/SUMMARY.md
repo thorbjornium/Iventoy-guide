@@ -18,6 +18,10 @@
 
 - [Skript](./skript.md)
 
+# SSH
+
+- [Installation](./ssh.md)
+
 # Linux
 
 - [Om Linux](./omlinux.md)
