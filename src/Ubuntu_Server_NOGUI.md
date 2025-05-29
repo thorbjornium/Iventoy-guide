@@ -172,7 +172,7 @@ Detta skapar en sym link i iVentoys "iso"-mapp. Växeln -s står för symbolic.
 
 ## Statisk IP  
 
-Navigera till `cd /etc/netplan/`. Mata sen in `sudo nano` och tryck <kbd>Tab</kbd> två gånger och sen <kbd>Enter</kbd> för att öppna .yaml-filen i Nano.  
+Navigera till `/etc/netplan/`. Mata sen in `sudo nano` och tryck <kbd>Tab</kbd> två gånger och sen <kbd>Enter</kbd> för att öppna .yaml-filen i Nano.  
 
 ![Bild](./UbuntuNOGUI/net.jpg)  
 
